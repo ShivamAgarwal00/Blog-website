@@ -1,6 +1,6 @@
 # Blog-website
-using Embedded Javascript (ejs) + Node.js
-
+## using Embedded Javascript (ejs) + Node.js
+&nbsp;
 ## Home page
 ![home](https://user-images.githubusercontent.com/124357186/227759729-dea1c203-f809-4c53-baf4-27ba3db11520.png)
 
